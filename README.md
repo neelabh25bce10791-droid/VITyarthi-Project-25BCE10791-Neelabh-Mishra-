@@ -1,2 +1,24 @@
 # Financial Tracker-VITyarthi-Project-25BCE10791-Neelabh-Mishra-
-The Simple Expense Tracker is a beginner-friendly Python console app to track daily expenses by date, category, and amount. It stores data using pandas and displays spending summaries with bar charts via matplotlib. The app requires no GUI, making it easy to use and ideal for learning basic Python data handling and visualization.
+# Simple Expense Tracker
+
+A beginner-friendly Python console application to track monthly expenses by date, category, and amount. The program allows easy entry of expenses and displays a summary graphically using a bar chart.
+
+## Features
+
+- Add expenses by entering day, month, and year.
+- Categorize expenses (e.g., Food, Transport, Utilities).
+- View a summary of expenses by category.
+- See a bar chart visualization of your spending.
+- Simple console interface — no GUI needed.
+
+## Requirements
+
+- Python 3.x
+- pandas
+- matplotlib
+
+## Installation
+
+Install required Python libraries with pip:
+
+
